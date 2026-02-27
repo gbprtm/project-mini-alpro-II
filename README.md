@@ -1,11 +1,2 @@
-# project-mini-alpro-II
-<p>
-  Project Mini ini merupakan kewajiban untuk menyelesaikan tugas akhir dari matakuliah Algoritma Pemograman II, dalam bentuk Individu dan Presentasi dalam Kelas.
-  <br>
-  <strong>
-    <br> Nama : Gilang Bayu Pratomo
-    <br> Kelas: 3F
-    <br> NPM  : 243510480
-  </strong>
-</p>
-
+project-mini-alpro-II
+<p> This Mini Project was developed as a final assignment for the Algorithm Programming II course. The project was completed individually and presented in class as part of the course evaluation. <br><br> <strong> Name : Gilang Bayu Pratomo <br>Class : 3F <br>NPM : 243510480 </strong> </p>
